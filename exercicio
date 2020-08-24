@@ -1,0 +1,12 @@
+1.a) Git init ele irá criar um novo repositório.
+b) Git clone ele irá copiar um determinado repositório existente
+c)Git branch ele vai listar todas as branches
+d) Git checkout irá para um branch específica
+e) Git fetch buscar alteração mais recente
+f)Git pull buscar alterações de um repositório remoto e vai "mergir" ao repositório local
+g)Git add adiciona uma alteração no repositório
+h)Git commit vai descrever as alterações feitas
+i)Git push ele empurra as modificações para o servidor
+
+2.A diferença entre o git fetch e o git pull é que o fetch vai buscar alterações nas branch atual que está armazenada no repositório 
+remoto enquanto o git pull será do repositório remoto e vai colocá-las no repositório local.
